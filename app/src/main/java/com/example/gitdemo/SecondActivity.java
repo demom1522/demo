@@ -1,4 +1,13 @@
 package com.example.gitdemo;
 
-public class SecondActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class SecondActivity extends AppCompatActivity {
+
+    SecondActivity(){
+
+    }
+
+
+
 }
