@@ -1,0 +1,10 @@
+diff a/app/src/main/res/layout/activity_main.xml b/app/src/main/res/layout/activity_main.xml	(rejected hunks)
+@@ -9,7 +9,7 @@
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+-        android:text=" Fucking Life"
++        android:text=" Fucking"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintLeft_toLeftOf="parent"
+         app:layout_constraintRight_toRightOf="parent"
